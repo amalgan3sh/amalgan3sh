@@ -1,9 +1,20 @@
-- 👋 Hi, I’m @amalgan3sh
-- 👀 I’m interested in programming
-- 🌱 I’m currently working as a software engineer
- 
+### Hi there, I'm Amal Ganesh! 👋
 
-<!---
-amalgan3sh/amalgan3sh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a software engineer with a passion for programming and learning new technologies. Currently, I'm diving into the world of React.js and Vue.js, eager to explore their capabilities and build exciting projects.
+
+🌱 I'm Currently Learning:
+- React.js
+- Vue.js
+
+👯 I’m Looking to Collaborate On:
+Open source projects that align with my interests and expertise.
+
+💼 About Me:
+- I'm a freelancer, always open to new opportunities and challenges.
+- Proficient in Python, PHP, ASP.NET, JavaScript, Flutter, SQL Server, and more.
+- I enjoy solving problems and building elegant solutions that make a difference.
+
+📫 Let's Connect:
+Feel free to reach out to me via [email](mailto:amalganesh4u@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/amal-ganesh-4716b31bb/)!
+
+<!-- Feel free to check out my repositories and projects below. -->
