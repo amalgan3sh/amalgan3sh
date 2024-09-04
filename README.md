@@ -44,9 +44,9 @@ Here are some projects I'm particularly proud of:
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/amalgan3sh)
-- [Twitter](https://twitter.com/amalgan3sh)
-- [Personal Website](https://www.amalgan3sh.com)
+- [LinkedIn](https://www.linkedin.com/in/amal-ganesh-4716b31bb/)
+- [Instagram](https://www.instagram.com/amal_ganesh_/)
+- [Portfolio](https://amalganesh.netlify.app/)
 
 ---
 
